@@ -12,3 +12,5 @@ link for rgb colors: https://www.w3schools.com/colors/colors_rgb.asp
 
 Each dots are around 20 in size and spaced apart by around 50.
 
+Link for turtle documentation: https://docs.python.org/3/library/turtle.html#turtle.home
+
