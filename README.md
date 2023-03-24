@@ -8,3 +8,7 @@ Random colors from the extracted colors are used to generate different spots to 
 
 link for rgb colors: https://www.w3schools.com/colors/colors_rgb.asp
 
+10 by 10 rows of different colored spots were created using turtle package.
+
+Each dots are around 20 in size and spaced apart by around 50.
+
